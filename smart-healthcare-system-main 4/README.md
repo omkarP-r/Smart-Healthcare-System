@@ -1,6 +1,6 @@
 # Healthcare Microservices System
 
-A production-ready **Healthcare Microservices System** built with **Spring Boot 3**, **Apache Kafka**, **MongoDB**, **React**, and **Docker**. This project is designed for self-learning and interview preparation, demonstrating real-world microservices patterns used at top tech companies.
+A production-ready **Healthcare Microservices System** built with **Spring Boot 3**, **Apache Kafka**, **MongoDB**, **React**, and **Docker**. This project is designed demonstrating real-world microservices patterns used at top tech companies.
 
 
 ---
